@@ -21,5 +21,5 @@ This repository contains the aim, procedure, output and result for each experime
 ## Note
 Each experiment folder has its own `README.md` with the Aim, Procedure, Output and Result.
 
-**Name:** Ananda
-**Register No.:** 4SF23CS018
+**Name:** Kartik
+**Register No.:** 4SF24CS409
